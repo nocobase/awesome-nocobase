@@ -45,6 +45,7 @@
 | [扩展图标库](https://github.com/charce526/plugin-icon-library) | NocoBase icon library extension plugin. Provides 1400+ icons with semantic categories for visual configuration points such as menus, buttons, and page tabs. | NocoBase 扩展图标库插件。为菜单、按钮、页面标签等可视化配置位置提供 1400+ 个图标与语义分类。 |
 | [Custom Login Page Pro](https://github.com/STlxx-lin/nocobase-plugin-custom-login-page) | Enterprise-grade visual custom login page builder driven by FlowEngine grid, featuring 14 built-in customizable blocks (Hero banner, feature matrix, stats, notices, QR codes, countdown), dual-mode workbench studio, and high-concurrency memory caching. | 企业级可视化自定义登录页与模块扩展插件，基于 FlowEngine 原生网格引擎驱动，内置 14 类开箱即用专属区块（品牌标语、特性矩阵、数据看板、公告、客服二维码、倒计时等），支持双层工作台设计器与高并发内存缓存。 |
 | [Password Recovery](https://github.com/STlxx-lin/nocobase-plugin-password-recovery) | Enterprise self-service password recovery plugin for NocoBase with workflow triggers (SMS, DingTalk, WeCom, Feishu, SMTP), anti-abuse rate limits, multi-step verification wizard, and audit logs. | 企业级密码自助找回与工作流联动插件，支持登录页两步向导集成、数据表事件驱动工作流联动（支持企微/钉钉/飞书/邮件/短信等多渠道通知）、防刷限流与全流程运维审计。 |
+| [Workflow: Render](https://github.com/thirdsai/nocobase-plugin-workflow-render) | Workflow node that renders a record to a PDF or PNG with thirds.ai from an HTML layout (built-in QR codes), saves it to an attachment field and passes the file to later nodes such as Mailer. Needs a thirds.ai API key. | 工作流节点：通过 thirds.ai 将 HTML 布局中的记录渲染为 PDF 或 PNG（内置二维码），保存到附件字段，并将文件传给后续节点（如邮件节点）。需要 thirds.ai API 密钥。 |
 
 ## Contributing
 
